@@ -1,0 +1,388 @@
+ body
+      {
+       margin: 0;
+      }
+      .linkMain {
+       position: absolute;
+        width: 151.75px;
+        height: 26px;
+        left: 133px;
+        top: 4px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        line-height: 28px;
+
+        color: #000000;
+      }
+      .linkLogin{
+      position: absolute;
+      width: 39.67px;
+      height: 16px;
+      left: 480px;
+      top: 10px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 25px;
+      line-height: 16px;
+      text-align: center;
+
+      color: #000000;
+      }
+      .linkRegister{
+      position: absolute;
+      width: 140px;
+      height: 16px;
+      left: 577px;
+      top: 10px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 25px;
+      line-height: 16px;
+      text-align: center;
+
+      color: #000000;
+      }
+      .Rectangle1{
+      position: absolute;
+      width: 497px;
+      height: 382px;
+      left: 126px;
+      top: 43px;
+
+      background: #FFFFF0;
+      }
+      .image1Poster1{
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      left: 158px;
+      top: 130px;
+      }
+      .image2Poster1{
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      left: 158px;
+      top: 231px;
+      }
+      .image3Poster1{
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      left: 158px;
+      top: 350px;
+      }
+      .labelPoster1{
+      position: absolute;
+      width: 484px;
+      height: 16px;
+      left: 133px;
+      top: 91px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 16px;
+      text-align: center;
+
+      color: #000000;
+      }
+      .textPoster1{
+      position: absolute;
+      width: 335px;
+      height: 318px;
+      left: 273px;
+      top: 122px;
+      }
+      .Rectangle2{
+      position: absolute;
+      width: 497px;
+      height: 382px;
+      left: 125px;
+      top: 497px;
+
+      background: #FFFFF0;
+      }
+      .labelPoster2{
+      position: absolute;
+      width: 484px;
+      height: 16px;
+      left: 133px;
+      top: 492px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 16px;
+      text-align: center;
+
+      color: #000000;
+      }
+      .image1Poster2{
+      position: absolute;
+      width: 216px;
+      height: 216px;
+      left: 145px;
+      top: 522px;
+      }
+      .image2Poster2{
+      position: absolute;
+      width: 216px;
+      height: 216px;
+      left: 387px;
+      top: 522px;
+      }
+      .textPoster2{
+      position: absolute;
+      width: 463px;
+      height: 76px;
+      left: 142px;
+      top: 755px;
+      }
+      .linkMain {
+       position: absolute;
+        width: 151.75px;
+        height: 26px;
+        left: 133px;
+        top: 4px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        line-height: 28px;
+
+        color: #000000;
+      }
+      .table {
+        position: absolute;
+         margin: 20px;
+         width: 870px;
+         height: 40px
+      }
+      .linkMain {
+       position: absolute;
+        width: 151.75px;
+        height: 26px;
+        left: 133px;
+        top: 4px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        line-height: 28px;
+
+        color: #000000;
+      }
+      .RectangleLogin {
+       position: absolute;
+        width: 434px;
+        height: 253px;
+        left: 158px;
+        top: 50px;
+
+        background: #FCCFCF;
+      }
+      .labelRegister{
+       position: absolute;
+        width: 226px;
+        height: 28px;
+        left: 283px;
+        top: 63px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28px;
+
+        color: #000000;
+      }
+      .labelUsername{
+       position: absolute;
+        width: 127px;
+        height: 16px;
+        left: 194px;
+        top: 130px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+
+        color: #000000;
+      }
+      .form-group1{
+       position: absolute;
+        width: 150px;
+        height: 30px;
+        left: 329px;
+        top: 123px;
+
+        background: #FFFFFF;
+      }
+      .labelPassword{
+       position: absolute;
+        width: 53px;
+        height: 16px;
+        left: 231px;
+        top: 174px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+
+        color: #000000;
+      }
+      .form-group2{
+       position: absolute;
+        width: 150px;
+        height: 30px;
+        left: 329px;
+        top: 167px;
+
+        background: #FFFFFF;
+      }
+      .button{
+       position: absolute;
+        width: 150px;
+        height: 30px;
+        left: 329px;
+        top: 247px;
+      }
+	  .linkMain {
+       position: absolute;
+        width: 151.75px;
+        height: 26px;
+        left: 133px;
+        top: 4px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        line-height: 28px;
+
+        color: #000000;
+      }
+      .RectangleRegister {
+       position: absolute;
+        width: 434px;
+        height: 253px;
+        left: 158px;
+        top: 50px;
+
+        background: #FCCFCF;
+      }
+      .labelRegister{
+       position: absolute;
+        width: 226px;
+        height: 28px;
+        left: 283px;
+        top: 63px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28px;
+
+        color: #000000;
+      }
+      .labelUsername{
+       position: absolute;
+        width: 127px;
+        height: 16px;
+        left: 194px;
+        top: 130px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+
+        color: #000000;
+      }
+      .form-group1{
+       position: absolute;
+        width: 150px;
+        height: 30px;
+        left: 329px;
+        top: 123px;
+
+        background: #FFFFFF;
+      }
+      .labelPassword{
+       position: absolute;
+        width: 53px;
+        height: 16px;
+        left: 231px;
+        top: 174px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+
+        color: #000000;
+      }
+      .form-group2{
+       position: absolute;
+        width: 150px;
+        height: 30px;
+        left: 329px;
+        top: 167px;
+
+        background: #FFFFFF;
+      }
+      .labelPasswordRepeat{
+       position: absolute;
+        width: 124px;
+        height: 16px;
+        left: 195px;
+        top: 214px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+
+        color: #000000;
+      }
+      .form-group3{
+       position: absolute;
+        width: 150px;
+        height: 30px;
+        left: 329px;
+        top: 207px;
+
+        background: #FFFFFF;
+      }
+      .button{
+       position: absolute;
+        width: 150px;
+        height: 30px;
+        left: 329px;
+        top: 247px;
+      }
